@@ -1,0 +1,51 @@
+{
+    "easy": [],
+    "hard": [],
+    "number": [
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n2.png"
+        },
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n4.png"
+        },
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n6.png"
+        },
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n8.png"
+        },
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n10.png"
+        },
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n12.png"
+        },
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n14.png"
+        },
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n16.png"
+        },
+        {
+            "bgImageName": "Glamour_Color",
+            "bgImagePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/transrik/glamourcolorbynumber/refs/heads/main/n18.png"
+        }
+    ]
+}
